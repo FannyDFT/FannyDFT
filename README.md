@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Fanny</h1>
-<h3 align="center">I recently completed a five month intensive training at Wild Code School and am currently on an internship at Pic Digital (Bidart) to continue developing my skills. Ready for exciting new challenges in web development.</h3>
+<h3 align="left">I recently completed a five month intensive training at Wild Code School and am currently on an internship at Pic Digital (Bidart) to continue developing my skills. Ready for exciting new challenges in web development.</h3>
+
+
 
 - 🔭 I’m currently working on **Aelys project**
 
