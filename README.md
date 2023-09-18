@@ -5,7 +5,7 @@
 
 
 
-##### 🔭 I’m currently working on **Aelys project**
+##### 🔭 I’m currently working on **Institut Bijoux de Soins Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
